@@ -1,0 +1,10 @@
+{
+ "python": "3.13.18",
+ "numpy": "2.4.6",
+ "n_sentences": 1012,
+ "selftest": false,
+ "tiktoken": "0.14.0",
+ "transformers": "5.22.1",
+ "tokenizers": "0.23.3",
+ "sentencepiece": "0.2.2"
+}
